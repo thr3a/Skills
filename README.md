@@ -1,4 +1,5 @@
-# Agent Skills
+インストール方法
 
-License: MIT
-
+```
+npx skills add https://github.com/thr3a/Skills.git
+```
