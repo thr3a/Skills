@@ -1,5 +1,5 @@
 ---
-name: feature-clarify
+name: suriawase
 description: ユーザーが計画やデザインについて共通理解に達するまで、徹底的に AskUserQuestion を使用してインタビューを行い、要件・仕様・懸念点をすり合わせるためのスキル。「質問ある？」と聞かれたら発動する。
 ---
 
